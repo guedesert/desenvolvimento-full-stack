@@ -13,4 +13,5 @@ Após instalado, você deverá acessar a guia <b>Arquivo</b> → <b>Clonar repos
 
 Para conferir as ferramentas que foram utilizadas, siga para o diretório de cada mundo.
 <hr>
-Criado com ❤ por Emanuel Guedes
+<p align="center">Criado com ❤ por Emanuel Guedes<p>
+<p align="center"><img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack"/><p>
