@@ -9,7 +9,7 @@ O curso, apesar de ser divididos em semestres, é estruturado em Mundos, cada Mu
 ## 🗂 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
-Após instalado, você deverá acessar a guia 'Arquivo' → 'Clonar repositório' → 'URL' e incluir o caminho 'guedesert/desenvolvimento-full-stack'.
+Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/desenvolvimento-full-stack`.
 
 Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/).
 
