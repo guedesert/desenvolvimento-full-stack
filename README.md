@@ -12,7 +12,7 @@ Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://gi
 Após instalado, você deverá acessar a guia <b>Arquivo</b> → <b>Clonar repositório</b> → <b>URL</b> e incluir o caminho <b>guedesert/desenvolvimento-full-stack</b>.
 
 Para conferir as ferramentas que foram utilizadas, siga para o diretório de cada mundo.
-<p align="center"><img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?color=green&label=tamanho%20do%20reposit%C3%B3rio""/><img src="https://img.shields.io/github/languages/count/guedesert/desenvolvimento-full-stack?label=linguagens&color=yellow"/><img src="https://img.shields.io/github/languages/top/guedesert/desenvolvimento-full-stack?color=blue"/><p>
+<p align="center"><img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?color=green&label=tamanho"/> <img src="https://img.shields.io/github/languages/count/guedesert/desenvolvimento-full-stack?label=linguagens&color=yellow"/> <img src="https://img.shields.io/github/languages/top/guedesert/desenvolvimento-full-stack?color=blue"/><p>
 <hr>
 <p align="center">Criado com ❤ por Emanuel Guedes<p>
 <p align="center"><img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack"/><p>
