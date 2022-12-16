@@ -1,7 +1,7 @@
 # 👨‍💻 Desenvolvimento Full Stack
 <h4 align="center">🚧 Em construção 🚧</h4>
 
-Respositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em Desenvolvimento Full Stack da Estácio.
+Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em Desenvolvimento Full Stack da Estácio.
 
 <p align="center"><img src="https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?color=aliceblue&label=arquivos"> <img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?color=brightgreen&label=tamanho"/> <img src="https://img.shields.io/github/languages/count/guedesert/desenvolvimento-full-stack?label=linguagens&color=yellow"/> <img src="https://img.shields.io/github/languages/top/guedesert/desenvolvimento-full-stack?color=blue"/><p>
 <hr>
@@ -26,7 +26,7 @@ Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://gi
 
 Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/desenvolvimento-full-stack`.
 
-Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/).
+Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/) ou [Notepad++](https://notepad-plus-plus.org/).
 
 Para conferir as ferramentas que foram utilizadas, siga para o diretório de cada mundo.
 
