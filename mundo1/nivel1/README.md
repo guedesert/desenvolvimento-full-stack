@@ -7,7 +7,9 @@ O seu primeiro programa em qualquer linguagem de programação normalmente é o 
 
 **Saída:** Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
 
-[Solução](./helloworld.py)
+<p align="center"><a href="./helloworld.py">Solução</a></p>
+
+<hr>
 
 - [x] Problema #2 - [Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
 
@@ -17,7 +19,9 @@ Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a s
 
 **Saída:** Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em branco antes e depois da igualdade seguido pelo valor correspondente à soma de A e B.
 
-[Solução](./somasimples.py)
+<p align="center"><a href="./somasimples.py">Solução</a></p>
+
+<hr>
 
 - [x] Problema #3 - [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
 
@@ -27,4 +31,4 @@ Na matemática, um Número Primo é aquele que pode ser dividido somente por 1 (
 
 **Saída:** Para cada caso de teste de entrada, imprima a mensagem “X eh primo” ou “X nao eh primo”, de acordo com a especificação fornecida.
 
-[Solução](./numeroprimo.py)
+<p align="center"><a href="./numeroprimo.py">Solução</a></p>
