@@ -6,3 +6,4 @@ B=int(input())
 SOMA=A+B
 # Impressão do valor da variável SOMA.
 print("SOMA =",SOMA)
+#Codificado e disponibilizado por Emanuel Guedes

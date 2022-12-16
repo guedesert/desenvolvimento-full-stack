@@ -19,3 +19,4 @@ for i in range(N):
   # Se a quantidade de divisores é menor ou igual a 2, o código encerra e imprime a informação de que o número é primo.
   else:
     print(X,"eh primo")
+#Codificado e disponibilizado por Emanuel Guedes
