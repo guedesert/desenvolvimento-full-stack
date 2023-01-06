@@ -3,7 +3,7 @@
 
 Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em Desenvolvimento Full Stack da Estácio.
 
-<p align="center"><img src="https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?color=aliceblue&label=arquivos"> <img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?color=brightgreen&label=tamanho"/> <img src="https://img.shields.io/github/languages/count/guedesert/desenvolvimento-full-stack?label=linguagens&color=yellow"/> <img src="https://img.shields.io/github/languages/top/guedesert/desenvolvimento-full-stack?color=blue"/><p>
+<a href="#"><p align="center"><img src="https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?color=aliceblue&label=arquivos"> <img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?color=brightgreen&label=tamanho"/> <img src="https://img.shields.io/github/languages/count/guedesert/desenvolvimento-full-stack?label=linguagens&color=yellow"/> <img src="https://img.shields.io/github/languages/top/guedesert/desenvolvimento-full-stack?color=blue"/><p></a>
 <hr>
 <div align="center">
     <a href="#-navegação">Navegação</a> • 
@@ -21,7 +21,7 @@ O curso, apesar de ser divididos em semestres, é estruturado em Mundos, cada Mu
 </div>
 <hr>
 
-## 🗂 Como baixar e executar
+## 📥 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
 Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/desenvolvimento-full-stack`.
@@ -35,7 +35,7 @@ Este repositório está licensiado sob a [Licença MIT](./LICENSE). Copyright ©
 
 <hr>
 <div align="center">
-<img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?color=blue"/>
+<a href="./LICENSE"><img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?color=blue"/></a>
 <br/>
 Criado com ❤ por <a href="https://br.linkedin.com/in/guedesert"><b>Emanuel Guedes</b></a>
 </div>
