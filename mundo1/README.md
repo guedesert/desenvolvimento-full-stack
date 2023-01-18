@@ -32,5 +32,6 @@ Para a construção e execução dos códigos visualizados nos níveis do Mundo 
     - [Python](https://www.python.org/)
 - IDEs:
     - [Google Colab](https://colab.research.google.com/)
-    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
     - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+    - [Visual Studio Code](https://code.visualstudio.com/)

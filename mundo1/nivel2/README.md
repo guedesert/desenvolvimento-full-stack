@@ -33,6 +33,6 @@ Neste problema você é solicitado a escrever um simples programa de conversão 
 
 **Saída:** Para cada linha de entrada (exceto a última) deve ser produzido uma linha de saída. Todo número hexadecimal deve ser precedido na saída por '0x' (zero xis).
 
-<p align="center"><a href="conversaosimplesdebase.py">Solução</a></p>
+<p align="center"><a href="./conversaosimplesdebase.py">Solução</a></p>
 
 <hr>

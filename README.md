@@ -3,7 +3,12 @@
 
 Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em Desenvolvimento Full Stack da Estácio.
 
-<a href="#"><p align="center"><img src="https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?color=aliceblue&label=arquivos"> <img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?color=brightgreen&label=tamanho"/> <img src="https://img.shields.io/github/languages/count/guedesert/desenvolvimento-full-stack?label=linguagens&color=yellow"/> <img src="https://img.shields.io/github/languages/top/guedesert/desenvolvimento-full-stack?color=blue"/><p></a>
+<a href="#">
+    <p align="center">
+        <img src="https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=arquivos">
+        <img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=tamanho"/>
+    </p>
+</a>
 <hr>
 <div align="center">
     <a href="#-navegação">Navegação</a> • 
@@ -35,7 +40,7 @@ Este repositório está licensiado sob a [Licença MIT](./LICENSE). Copyright ©
 
 <hr>
 <div align="center">
-<a href="./LICENSE"><img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?color=blue"/></a>
+<a href="./LICENSE"><img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen"/></a>
 <br/>
 Criado com ❤ por <a href="https://br.linkedin.com/in/guedesert"><b>Emanuel Guedes</b></a>
 </div>
