@@ -1,16 +1,12 @@
 ![Capa do repositório com logo da Estácio e nome do curso](./.github/capa.svg)
 
-<div align="center">
-
-![Badge "em desenvolvimento"](http://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
-
-</div>
-
-Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em **`Desenvolvimento Full Stack`** da **[`Estácio`]**(https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
+Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em **`Desenvolvimento Full Stack`** da [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
 
 <div align="center">
 
 ![Quantidade de arquivos no repositório](https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=arquivos) ![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=tamanho)
+
+![Badge "em desenvolvimento"](http://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
 
 ---
 
