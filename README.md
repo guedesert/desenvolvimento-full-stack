@@ -1,46 +1,57 @@
 # 👨‍💻 Desenvolvimento Full Stack
-<h4 align="center">🚧 Em construção 🚧</h4>
 
-Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em Desenvolvimento Full Stack da Estácio.
-
-<a href="#">
-    <p align="center">
-        <img src="https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=arquivos">
-        <img src="https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=tamanho"/>
-    </p>
-</a>
-<hr>
 <div align="center">
-    <a href="#-navegação">Navegação</a> • 
-    <a href="#-como-baixar-e-executar">Como baixar e executar</a> • 
-    <a href="#-licença">Licença</a>
+
+**🚧 Em construção 🚧**
+
 </div>
-<hr>
+
+Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em `Desenvolvimento Full Stack` da [`Estácio`](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
+
+<div align="center">
+
+![Quantidade de arquivos no repositório](https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=arquivos) ![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=tamanho)
+
+---
+
+[Navegação](#-navegação) • [Como baixar e executar](#-como-baixar-e-executar) • [Licença](#-licença)
+
+---
+
+</div>
 
 ## 🧭 Navegação
 O curso, apesar de ser divididos em semestres, é estruturado em Mundos, cada Mundo composto por Níveis, disciplinas, que o integram e dispõem o seu conteúdo, incluindo Missões Conceituais, Checkpoints e Missões Práticas. Neste repositório, estarão listadas somente as missões práticas. Portanto, os códigos estarão divididos por Mundo e Nível.
 
-<hr>
 <div align="center">
-    <a href="./mundo1">Mundo 1</a>
+
+---
+
+[Mundo 1](./mundo1/)
+
+---
+
 </div>
-<hr>
 
 ## 📥 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
 Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/desenvolvimento-full-stack`.
 
-Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/) ou [Notepad++](https://notepad-plus-plus.org/).
+Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/), por exemplo.
 
 Para conferir as ferramentas que foram utilizadas, siga para o diretório de cada mundo.
 
 ## 📃 Licença
-Este repositório está licensiado sob a [Licença MIT](./LICENSE). Copyright © 2022 Emanuel Guedes.
+Este repositório está licensiado sob a [Licença MIT](./LICENSE).
+Copyright © 2022-2023 Emanuel Guedes.
 
-<hr>
 <div align="center">
-<a href="./LICENSE"><img src="https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen"/></a>
-<br/>
-Criado com ❤ por <a href="https://br.linkedin.com/in/guedesert"><b>Emanuel Guedes</b></a>
+
+[![Licença](https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen)](./LICENSE)
+
+---
+
+Criado com ❤ por [**Emanuel Guedes**](https://br.linkedin.com/in/guedesert)
+
 </div>
