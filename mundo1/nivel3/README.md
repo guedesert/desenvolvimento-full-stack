@@ -38,7 +38,7 @@ Para cada teste, a primeira linha conterá um número N (1 ≤ N ≤ 10000), ind
 
 <hr>
 
-- [ ] Problema #3 - [Conjuntos Bons e Ruins](https://www.beecrowd.com.br/judge/pt/problems/view/2087)
+- [x] Problema #3 - [Conjuntos Bons e Ruins](https://www.beecrowd.com.br/judge/pt/problems/view/2087)
 
 Nesse problema você deverá descobrir se um conjunto de diversas palavras é bom ou ruim. Por definição, um conjunto é bom quando nenhuma palavra desse conjunto é um prefixo de uma outra palavra. Caso contrário, este é considerado um conjunto ruim.
 
@@ -48,6 +48,6 @@ Por exemplo, {abc, dae, abcde} é um conjunto ruim, pois abc é um prefixo de ab
 
 **Saída:** Para cada caso de teste, você deverá imprimir Conjunto Bom, ou Conjunto Ruim, conforme explicado acima.
 
-<p align="center"><a href="#">Solução</a></p>
+<p align="center"><a href="./conjuntosbonseruins.py">Solução</a></p>
 
 <hr>

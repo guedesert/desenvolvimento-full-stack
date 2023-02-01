@@ -1,12 +1,16 @@
 ![Capa do repositório com logo da Estácio e nome do curso](./.github/capa.svg)
 
+<div align="center">
+
+![Badge "em desenvolvimento"](http://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+
+</div>
+
 Repositório destinado ao compartilhamento dos códigos gerados no curso de graduação tecnológica em **`Desenvolvimento Full Stack`** da [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
 
 <div align="center">
 
-![Quantidade de arquivos no repositório](https://img.shields.io/github/directory-file-count/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=arquivos) ![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=tamanho)
-
-![Badge "em desenvolvimento"](http://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=tamanho)
 
 ---
 
@@ -23,7 +27,7 @@ O curso, apesar de ser divididos em semestres, é estruturado em Mundos, cada Mu
 
 ---
 
-[Mundo 1](./mundo1/)
+[Mundo 1](./mundo1/README.md)
 
 ---
 
@@ -44,10 +48,10 @@ Copyright © 2022-2023 Emanuel Guedes.
 
 <div align="center">
 
-[![Licença](https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen)](./LICENSE)
+[![Licença](https://img.shields.io/github/license/guedesert/desenvolvimento-full-stack?style=for-the-badge&color=brightgreen&label=LICENÇA)](./LICENSE)
 
 ---
 
-Criado com ❤ por [**Emanuel Guedes**](https://br.linkedin.com/in/guedesert)
+Criado com ❤ por [**Emanuel Guedes**](https://github.com/guedesert)
 
 </div>

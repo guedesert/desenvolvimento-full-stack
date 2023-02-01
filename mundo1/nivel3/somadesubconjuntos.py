@@ -19,3 +19,4 @@ for teste in range(testes):
       resposta += numero
   # Imprime o resultado do menor número possível de ser obtido por meio da soma dos subconjuntos que podem ser formados com o conjunto de entrada.
   print(resposta)
+# Codificado e disponibilizado por Emanuel Guedes
