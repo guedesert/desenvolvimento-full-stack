@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Badge "em andamento"](http://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge)
+![Badge "em andamento"](http://img.shields.io/badge/status-concluído-green?style=for-the-badge)
 
 ---
 
-[Nível 1](#nível-1-desvendando-essa-caixa-preta-) • [Nível2](#nível-2-vamos-iniciar-a-jornada-) • [Nível 3](#nível-3-estruturando-dados-) • [Nível 4](#nível-4-conhecendo-novos-paradigmas-) • [Nível 5](#nível-5-colocando-tudo-em-ordem-e-guardando-) • [Missão de Certificação](#missão-de-certificação-projetando-uma-aplicação-desktop-) • [Tecnologias utilizadas](#-tecnologias-utilizadas-neste-mundo)
+[Nível 1](#nivel-1-desvendando-essa-caixa-preta-) • [Nível2](#nivel-2-vamos-iniciar-a-jornada-) • [Nível 3](#nivel-3-estruturando-dados-) • [Nível 4](#nivel-4-conhecendo-novos-paradigmas-) • [Nível 5](#nivel-5-colocando-tudo-em-ordem-e-guardando-) • [Missão de Certificação](#missão-de-certificação-projetando-uma-aplicação-desktop-) • [Tecnologias utilizadas](#-tecnologias-utilizadas-neste-mundo)
 
 ---
 
@@ -31,10 +31,6 @@
 ## Nível 5: Colocando Tudo em Ordem e Guardando [🗂](./nivel5/README.md)
 
 `Objetivos:` Desenvolver habilidades de desenvolver soluções complexas para manipular dados com a linguagem de programação Python; Identificar os elementos estruturais e lógicos dos processos; Reconhecer os elementos computacionais da memória; Identificar os fundamentos do gerenciamento e aspectos estruturais de arquivos; Reconhecer os elementos para manipulação de arquivos; Relacionar os algoritmos básicos de ordenação com a implementação na linguagem de programação Python; Relacionar os algoritmos avançados de ordenação com a implementação na linguagem de programação Python.
-
-## Missão de Certificação: Projetando uma Aplicação Desktop [🗂](https://github.com/guedesert/projetando-uma-aplicacao-desktop)
-
-`Objetivos:` Implementar os requisitos funcionais e não funcionais de um problema; Reconhecer os elementos da linguagem de programação Python para atender as demandas de um projeto; Fazer persistência de dados; Manipular dados eficientemente; Utilizar recursos visuais para interagir com o usuário; Demonstrar capacidade de desenvolver uma solução organizada, bem documentada e funcional.
 
 ## 🛠 Tecnologias utilizadas neste Mundo
 
