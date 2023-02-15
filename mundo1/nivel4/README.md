@@ -9,7 +9,11 @@ Leia um valor de ponto flutuante com duas casas decimais. Este valor representa 
 
 Obs: Utilize ponto (.) para separar a parte decimal.
 
-<p align="center"><a href="./notasemoedas.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1021.py)
+
+</div>
 
 <hr>
 
@@ -29,6 +33,10 @@ Para as comparações entre caracteres deve ser desconsiderado o case sensitive.
 
 **Saída:** Converto o texto do documento que é dado na entrada, utilizando as específicações dadas acima e imprima em uma única linha, o novo texto do documento com as novas tags, para maiores esclarecimentos consulte o exemplo abaixo.
 
-<p align="center"><a href="./substituicaodetag.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1254.py)
+
+</div>
 
 <hr>

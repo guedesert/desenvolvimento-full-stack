@@ -10,7 +10,11 @@ O professor Rolien organizou junto às suas turmas de Ciência da Computação a
 
 Obs.: Deverá ser impressa uma linha em branco entre dois casos de teste.
 
-<p align="center"><a href="./camisetas.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1258.py)
+
+</div>
 
 <hr>
 
@@ -24,6 +28,10 @@ Desse modo, o senhor Severino recorreu a você, pois sabe de suas habilidades co
 
 **Saída:** Seu programa deverá imprimir o cadastro dos códigos ordenado. Não haverá linha em branco entre os casos de teste.
 
-<p align="center"><a href="./abibliotecadosenhorseverino.py">Solução</a></p>
+<div align="center">
+
+[Solução](./2137.py)
+
+</div>
 
 <hr>

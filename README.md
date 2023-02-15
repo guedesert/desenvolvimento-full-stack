@@ -1,4 +1,5 @@
 ![Capa do repositório com logo da Estácio e nome do curso](./.github/capa.svg)
+---
 
 <div align="center">
 
@@ -27,7 +28,7 @@ O curso, apesar de ser divididos em semestres, é estruturado em Mundos, cada Mu
 
 ---
 
-[Mundo 1](./mundo1/README.md)
+[🪐 Mundo 1](./mundo1/README.md) • [🪐 Mundo 2](./mundo2/README.md)
 
 ---
 
@@ -43,8 +44,7 @@ Além disso, é interessante que você tenha um bom editor para trabalhar com os
 Para conferir as ferramentas que foram utilizadas, siga para o diretório de cada mundo.
 
 ## 📃 Licença
-Este repositório está licensiado sob a [Licença MIT](./LICENSE).
-Copyright © 2022-2023 Emanuel Guedes.
+Este repositório está licensiado sob a [Licença MIT](./LICENSE). Copyright © 2022-2023 Emanuel Guedes.
 
 <div align="center">
 

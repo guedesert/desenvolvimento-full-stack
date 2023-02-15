@@ -1,12 +1,13 @@
-![Capa do Mundo 1](../.github/capa-nivel1.svg)
+![Capa do Mundo 1](../.github/capa-mundo1.svg)
+---
 
 <div align="center">
 
-![Badge "em andamento"](http://img.shields.io/badge/status-concluído-green?style=for-the-badge)
+![Badge "Concluído"](http://img.shields.io/badge/status-concluído-green?style=for-the-badge)
 
 ---
 
-[Nível 1](#nivel-1-desvendando-essa-caixa-preta-) • [Nível2](#nivel-2-vamos-iniciar-a-jornada-) • [Nível 3](#nivel-3-estruturando-dados-) • [Nível 4](#nivel-4-conhecendo-novos-paradigmas-) • [Nível 5](#nivel-5-colocando-tudo-em-ordem-e-guardando-) • [Missão de Certificação](#missão-de-certificação-projetando-uma-aplicação-desktop-) • [Tecnologias utilizadas](#-tecnologias-utilizadas-neste-mundo)
+[Nível 1](#nivel-1-desvendando-essa-caixa-preta-) • [Nível2](#nivel-2-vamos-iniciar-a-jornada-) • [Nível 3](#nivel-3-estruturando-dados-) • [Nível 4](#nivel-4-conhecendo-novos-paradigmas-) • [Nível 5](#nivel-5-colocando-tudo-em-ordem-e-guardando-) • [Tecnologias utilizadas](#-tecnologias-utilizadas-neste-mundo)
 
 ---
 

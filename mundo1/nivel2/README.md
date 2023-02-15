@@ -7,7 +7,11 @@ Leia um valor inteiro, que é o tempo de duração em segundos de um determinado
 
 **Saída:** Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
 
-<p align="center"><a href="./conversaodetempo.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1019.py)
+
+</div>
 
 <hr>
 
@@ -21,7 +25,11 @@ Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo m
 
 **Saída:** Imprima a saída conforme exemplo fornecido.
 
-<p align="center"><a href="./idadeemdias.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1020.py)
+
+</div>
 
 <hr>
 
@@ -33,6 +41,10 @@ Neste problema você é solicitado a escrever um simples programa de conversão 
 
 **Saída:** Para cada linha de entrada (exceto a última) deve ser produzido uma linha de saída. Todo número hexadecimal deve ser precedido na saída por '0x' (zero xis).
 
-<p align="center"><a href="./conversaosimplesdebase.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1199.py)
+
+</div>
 
 <hr>

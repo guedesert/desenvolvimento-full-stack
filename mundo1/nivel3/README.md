@@ -13,7 +13,11 @@ O final da entrada é indicado por uma linha que contém apenas dois zeros, sepa
 
 **Saída:** Para cada caso de teste da entrada seu programa deve imprimir uma única linha, contendo um numero inteiro, indicando o número máximo de cartas que Alice e Beatriz podem trocar entre si.
 
-<p align="center"><a href="./trocadecartas.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1104.py)
+
+</div>
 
 <hr>
 
@@ -34,7 +38,11 @@ Para cada teste, a primeira linha conterá um número N (1 ≤ N ≤ 10000), ind
 
 **Saída:** Para cada caso de teste, imprima uma única linha, a resposta para o problema.
 
-<p align="center"><a href="./somadesubconjuntos.py">Solução</a></p>
+<div align="center">
+
+[Solução](./1690.py)
+
+</div>
 
 <hr>
 
@@ -48,6 +56,10 @@ Por exemplo, {abc, dae, abcde} é um conjunto ruim, pois abc é um prefixo de ab
 
 **Saída:** Para cada caso de teste, você deverá imprimir Conjunto Bom, ou Conjunto Ruim, conforme explicado acima.
 
-<p align="center"><a href="./conjuntosbonseruins.py">Solução</a></p>
+<div align="center">
+
+[Solução](./2087.py)
+
+</div>
 
 <hr>
