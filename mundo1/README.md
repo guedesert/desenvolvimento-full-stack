@@ -33,6 +33,10 @@
 
 `Objetivos:` Desenvolver habilidades de desenvolver soluções complexas para manipular dados com a linguagem de programação Python; Identificar os elementos estruturais e lógicos dos processos; Reconhecer os elementos computacionais da memória; Identificar os fundamentos do gerenciamento e aspectos estruturais de arquivos; Reconhecer os elementos para manipulação de arquivos; Relacionar os algoritmos básicos de ordenação com a implementação na linguagem de programação Python; Relacionar os algoritmos avançados de ordenação com a implementação na linguagem de programação Python.
 
+## Missão de Certificação: Projetando uma Aplicação Desktop [🗂](https://github.com/guedesert/projetando-uma-aplicacao-desktop)
+
+`Objetivos:` Implementar os requisitos funcionais e não funcionais de um problema; Reconhecer os elementos da linguagem de programação Python para atender as demandas de um projeto; Fazer persistência de dados; Manipular dados eficientemente; Utilizar recursos visuais para interagir com o usuário; Demonstrar capacidade de desenvolver uma solução organizada, bem documentada e funcional.
+
 ## 🛠 Tecnologias utilizadas neste Mundo
 
 Para a construção e execução dos códigos visualizados nos níveis do Mundo 1 foram utilizadas as seguintes tecnologias:
