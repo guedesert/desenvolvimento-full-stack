@@ -7,7 +7,7 @@
 
 ---
 
-[Nível 1](#nivel-1-desvendando-essa-caixa-preta-) • [Nível2](#nivel-2-vamos-iniciar-a-jornada-) • [Nível 3](#nivel-3-estruturando-dados-) • [Nível 4](#nivel-4-conhecendo-novos-paradigmas-) • [Nível 5](#nivel-5-colocando-tudo-em-ordem-e-guardando-) • [Tecnologias utilizadas](#-tecnologias-utilizadas-neste-mundo)
+[Nível 1](#nível-1-desvendando-essa-caixa-preta-) • [Nível 2](#nível-2-vamos-iniciar-a-jornada-) • [Nível 3](#nível-3-estruturando-dados-) • [Nível 4](#nível-4-conhecendo-novos-paradigmas-) • [Nível 5](#nível-5-colocando-tudo-em-ordem-e-guardando-) • [Missão Certificação](#missão-certificação-projetando-uma-aplicação-desktop-) • [Tecnologias utilizadas](#-tecnologias-utilizadas-neste-mundo)
 
 ---
 
@@ -33,7 +33,7 @@
 
 `Objetivos:` Desenvolver habilidades de desenvolver soluções complexas para manipular dados com a linguagem de programação Python; Identificar os elementos estruturais e lógicos dos processos; Reconhecer os elementos computacionais da memória; Identificar os fundamentos do gerenciamento e aspectos estruturais de arquivos; Reconhecer os elementos para manipulação de arquivos; Relacionar os algoritmos básicos de ordenação com a implementação na linguagem de programação Python; Relacionar os algoritmos avançados de ordenação com a implementação na linguagem de programação Python.
 
-## Missão de Certificação: Projetando uma Aplicação Desktop [🗂](https://github.com/guedesert/projetando-uma-aplicacao-desktop)
+## Missão Certificação: Projetando uma Aplicação Desktop [🗂](https://github.com/guedesert/projetando-uma-aplicacao-desktop)
 
 `Objetivos:` Implementar os requisitos funcionais e não funcionais de um problema; Reconhecer os elementos da linguagem de programação Python para atender as demandas de um projeto; Fazer persistência de dados; Manipular dados eficientemente; Utilizar recursos visuais para interagir com o usuário; Demonstrar capacidade de desenvolver uma solução organizada, bem documentada e funcional.
 
@@ -41,10 +41,8 @@
 
 Para a construção e execução dos códigos visualizados nos níveis do Mundo 1 foram utilizadas as seguintes tecnologias:
 
-- Linguagem:
-  - [Python](https://www.python.org/)
-- IDEs:
-  - [Google Colab](https://colab.research.google.com/)
-  - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
-  - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
-  - [Visual Studio Code](https://code.visualstudio.com/)
+<div align="center">
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/) [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
+
+</div>
